@@ -1,4 +1,4 @@
-# CrawlingScrappingWeb
+# Crawling and scrapping the web
 A tour over considerations, techniques, and tools for crawling & scrapping the web with Python.
 
 **Andrés Cevallos Prado**
